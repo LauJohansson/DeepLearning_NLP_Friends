@@ -5,7 +5,7 @@ This repository contains hand-in assignment for the DTU course 02456 Deep Learni
 
 The exercises are written in Python programming language and formatted into Jupyter Notebooks.
 
-This repository borrows heavily from previous works, in particular:
+This repository is heavily inspired by previous works, in particular:
 
 * [nlp-tutorial](https://github.com/graykode/nlp-tutorial/tree/master/3-3.Bi-LSTM). Written by Tae-Hwan Jung
 
