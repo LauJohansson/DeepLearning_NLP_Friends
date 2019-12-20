@@ -23,7 +23,4 @@ This repository borrows heavily from previous works, in particular:
 ## Links
 
 The model can be opened from this link:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LauJohansson/deeplearning_NLP_friends/Merge_af_NLP_Friends.ipynb)
-
-
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LauJohansson/blob/master/deeplearning_NLP_friends/Merge_af_NLP_Friends.ipynb)
