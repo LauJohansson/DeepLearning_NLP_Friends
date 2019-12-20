@@ -1,5 +1,5 @@
 # Deep learning 02456 - Natural Language Processing - The one with Friends 
-Authors: Daniel Juhász Vigild, Jonas Søbro Christohersen & Lau Johansson
+Authors: Daniel Juhász Vigild, Jonas Søbro Christophersen & Lau Johansson
 
 This repository contains hand-in assignment for the DTU course 02456 Deep Learning. 
 
