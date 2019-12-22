@@ -18,6 +18,9 @@ This repository borrows heavily from previous works, in particular:
 * [Universal-Language-Model-Fine-tuning-for-Text-Classification](https://www.aclweb.org/anthology/P18-1031.pdf?fbclid=IwAR0-TADs3LWh74b4xbA2QW5OYM5-_5iFu2EBjd_0-KVWOUytnBV5TeS9KGo). Written by Howard and Ruder
 
 
+* [t-SNE](https://lvdmaaten.github.io/tsne/). By Laurens van der Maaten
+
+
 
 
 ## Links
