@@ -26,7 +26,8 @@ This repository is heavily inspired by previous works, in particular:
 ## Links
 
 The model can be opened from this link:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LauJohansson/DeepLearning_NLP_Friends/blob/master/Merge_af_NLP_Friends.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LauJohansson/DeepLearning_NLP_Friends/blob/master/NLP_The_One_with_Friends.ipynb)
+
 
 
 
