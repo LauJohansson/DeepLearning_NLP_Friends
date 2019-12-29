@@ -1,6 +1,6 @@
 # Deep learning 02456 - Natural Language Processing - The one with Friends 
 
-***Authors: Daniel Juhász Vigild, Jonas Søbro Christophersen (@github/jonassoebro) & Lau Johansson*** \s\s
+*** Authors: Daniel Juhász Vigild, Jonas Søbro Christophersen ( @github/jonassoebro ) & Lau Johansson ( @github/LauJohansson ) *** 
   
 
 This repository contains hand-in assignment for the DTU course 02456 Deep Learning. 
