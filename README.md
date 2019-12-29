@@ -1,6 +1,6 @@
 # Deep learning 02456 - Natural Language Processing - The one with Friends 
 
-*Authors: Daniel Juhász Vigild, Jonas Søbro Christophersen & Lau Johansson* <br/>
+*Authors: Daniel Juhász Vigild, Jonas Søbro Christophersen & Lau Johansson* \
 
 
 
