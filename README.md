@@ -1,7 +1,7 @@
 # Deep learning 02456 - Natural Language Processing - The one with Friends 
 
-Authors: Daniel Juhász Vigild, Jonas Søbro Christophersen & Lau Johansson
-
+*Authors: Daniel Juhász Vigild, Jonas Søbro Christophersen & Lau Johansson*
+\\
 
 
 This repository contains hand-in assignment for the DTU course 02456 Deep Learning. 
@@ -31,8 +31,7 @@ The generator can be opened from this link:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LauJohansson/DeepLearning_NLP_Friends/blob/master/Friends_Generator.ipynb)
 
 
-##Link to the LSTM model
-
+## Link to the LSTM model
 The model can be opened from this link:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LauJohansson/DeepLearning_NLP_Friends/blob/master/NLP_The_One_with_Friends.ipynb)
 
