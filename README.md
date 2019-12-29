@@ -1,11 +1,10 @@
 # Deep learning 02456 - Natural Language Processing - The one with Friends 
 
-*** Authors: Daniel Juhász Vigild, Jonas Søbro Christophersen ( @github/jonassoebro ) & Lau Johansson ( @github/LauJohansson ) *** 
-  
+***Authors: Daniel Juhász Vigild, Jonas Søbro Christophersen & Lau Johansson***    
 
 This repository contains hand-in assignment for the DTU course 02456 Deep Learning. 
 
-The exercises are written in Python programming language and formatted into Jupyter Notebooks.
+The exercises are written in Python programming language and formatted into Jupyter Notebooks. <br /> <br />
 
 This repository is heavily inspired by previous works, in particular:
 
