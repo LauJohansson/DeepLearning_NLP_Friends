@@ -2,6 +2,8 @@
 
 ***Authors: Daniel Juhász Vigild, Jonas Søbro Christophersen & Lau Johansson*** <br /> <br />
 
+Read our article [here](https://github.com/LauJohansson/DeepLearning_NLP_Friends/blob/master/NATURAL%20LANGUAGE%20PROCESSING%20-%20THE%20ONE%20WITH%20FRIENDS.pdf)
+
 This repository contains hand-in assignment for the DTU course 02456 Deep Learning. 
 
 The exercises are written in Python programming language and formatted into Jupyter Notebooks. 
